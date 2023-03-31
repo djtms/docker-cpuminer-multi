@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.14
 
 RUN set -x \
     # Runtime dependencies.
